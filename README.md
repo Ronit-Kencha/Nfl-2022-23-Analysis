@@ -1,1 +1,2 @@
 # Nfl-2022-23-Analysis
+This repository contains analysis of the 2022-2023 NFL season, where data is pulled from [Pro Football Reference](https://www.pro-football-reference.com/) website on all 32 NFL teams. Analysis is conductd on both, offensive and defensive, sides of the ball and metrics such as sacks, tackles for loss, receiving yards, QB metrics, scoring and turnover percentage, touchdowns, etc... are measured and compared to see how much weight they hold to the overall performance of the team during that season. 
