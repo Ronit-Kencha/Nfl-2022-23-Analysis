@@ -7,4 +7,5 @@ This repository contains analysis of the 2022-2023 NFL season, where data is pul
 2. How much weight is put on players performance when looking at the team's performance?
 3. What metric automatically shows when a team is doing poor or struggling?
 4. How much impact does efficiency have in team success?
+5. What can teams get from this analysis in regards to what aspects of their team they should be looking at for improvement or success?
 
